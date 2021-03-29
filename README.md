@@ -27,7 +27,7 @@
 
 </p>
 
-- **Deflationary.** We burn 2.5% of every SFN transaction meaning our circulating supply is constantly decreasing.
+- **Deflationary.** We burn 2.5% of every SFN transaction, meaning our circulating supply is constantly decreasing.
 - **Staking.** 3.5% of every transaction will go toward stake rewards. We want to encourage our users to hold their SFN so we have decided to build our reward mechanism right into the contract.
 
 - **Interoperable.** Strains enables transactions across many chains.
